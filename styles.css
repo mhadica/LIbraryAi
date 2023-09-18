@@ -181,6 +181,7 @@ th, td {
     .button-link {
         display: block;
         margin: 10px auto;
+        max-width: 100px;
     }
 
     /* Adjust flip card styles for smaller screens */
